@@ -12,6 +12,6 @@
   "dependencies": {
     "eosforcejs2": "^0.1.0",
     "node-fetch": "^2.6.0",
-    "util": "^0.12.1"
+    "util": "^0.12.4"
   }
 }
